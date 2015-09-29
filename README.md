@@ -66,6 +66,7 @@ see [`vars/main.yml`](vars/mail.yml)
   - ffmpeg
   - git
   - libevent
+  - sl
 
 * Launchd services
 

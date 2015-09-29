@@ -39,6 +39,7 @@ homebrew:
     - ffmpeg
     - git
     - libevent
+    - sl
 
 
   cask:
